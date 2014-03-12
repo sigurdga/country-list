@@ -1,0 +1,12 @@
+{
+  "author": "sigurdga",
+  "name": "country-list",
+  "description": "a temporary fork of umpirsky/country-list containing a package.json to make it npm installable",
+  "version": "0.0.1",
+  "homepage": "",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sigurdga/country-list"
+  }
+}
